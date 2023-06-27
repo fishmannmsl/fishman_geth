@@ -41,4 +41,4 @@ $ go run main.go startnode
 
 **页面预览图**
 
-![页面预览图](./static/img/页面预览图.png)
+![页面预览图](./static/img/页面预览图1.png)
