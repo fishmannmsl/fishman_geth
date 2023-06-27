@@ -32,3 +32,11 @@ $ go run main.go startnode
   - http：使用`携程(go)`启动`web`服务器，用通道`chanl`进行`web`服务与`tcp`请求之间的数据交互
 - 持久化
   - bolt：使用`bolt`数据库实现区块链的持久化
+
+
+
+#### `web`端
+
+使用`google Chrom`的`扩展程序`进行加载项目内`static`文件夹进行打开
+
+**页面预览图**
