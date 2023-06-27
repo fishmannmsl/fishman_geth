@@ -40,3 +40,5 @@ $ go run main.go startnode
 使用`google Chrom`的`扩展程序`进行加载项目内`static`文件夹进行打开
 
 **页面预览图**
+
+![页面预览图](./static/img/页面预览图.png)
